@@ -17,6 +17,11 @@ What is not perfect :
 
   - The picture which is displayed is not centered :(
   - Some bad caracters when I am dealing with French accents
+
+
+Some screenshots :
+
+
   
 
       
