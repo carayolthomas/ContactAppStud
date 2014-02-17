@@ -21,20 +21,23 @@ public final class R {
         public static final int activity_vertical_margin=0x7f040001;
     }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
-        public static final int icon_list_contact=0x7f020001;
+        public static final int ic_empty=0x7f020000;
+        public static final int ic_error=0x7f020001;
+        public static final int ic_launcher=0x7f020002;
+        public static final int ic_stub=0x7f020003;
+        public static final int icon_list_contact=0x7f020004;
     }
     public static final class id {
         public static final int GridLayout1=0x7f080000;
         public static final int action_settings=0x7f080005;
         public static final int buttonRefresh=0x7f080001;
-        public static final int imageViewContactRow=0x7f080003;
+        public static final int image=0x7f080003;
         public static final int listViewContacts=0x7f080002;
-        public static final int textViewContactRow=0x7f080004;
+        public static final int text=0x7f080004;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
-        public static final int item_contact_row=0x7f030001;
+        public static final int item_list_image=0x7f030001;
     }
     public static final class menu {
         public static final int main=0x7f070000;
