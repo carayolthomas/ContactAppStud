@@ -1,6 +1,8 @@
 ContactAppStud
 ==============
 
+![ScreenShot](https://raw2.github.com/carayolthomas/ContactAppStud/master/screenshot/icon.png)
+
 Test Mobile (Android) 
 
 For this application you will have 2 packages :
@@ -22,6 +24,6 @@ What is not perfect :
 Some screenshots :
 
 ![ScreenShot](https://raw2.github.com/carayolthomas/ContactAppStud/master/screenshot/Screenshot_2014-02-17-21-56-40.png)
-  
-
+-----  
+![ScreenShot](https://raw2.github.com/carayolthomas/ContactAppStud/master/screenshot/Screenshot_2014-02-17-21-56-44.png)
       
